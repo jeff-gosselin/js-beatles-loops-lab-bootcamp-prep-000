@@ -23,5 +23,6 @@ function iLoveTheBeatles(someNumber) {
   
   do {
     sayings.push("I love the Beatles!")
+    someNumber++;
   } while(someNumber < 15)
 }
